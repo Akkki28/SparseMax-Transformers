@@ -18,7 +18,7 @@ Sparsemax is a type of activation/output function similar to the traditional sof
 
 ![sparseMax](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwhRmjTVO4PtsJ0zn4RWZAMmAZ5cy-haAaelP9NquTg&s)
 
-the ability to generate sparse probability distributions. This means it can assign high probabilities to a select few elements while driving the rest to zero is what differs SparsMax models from softmax as softmax can never output 0 probablities. This can be beneficial when you want the model to focus on a limited number of relevant features or input aspects and not attend on others.
+The ability to generate sparse probability distributions is what differs SparsMax models from softmax as softmax can never output 0 probablities. This means it can assign high probabilities to a select few elements while driving the rest to zero. This can be beneficial when you want the model to focus on a limited number of relevant features or input aspects and not attend on others.
 
 
 
