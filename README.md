@@ -45,7 +45,7 @@ Run each Indivisual notebook for the architecture and train the model based on t
 
 - Develop a training pipeline that integrates the transformer components with a dataset. This would involve preparing data loaders, defining loss functions, implementing optimization algorithms like Adam, and running training epochs.
 
-- Implement evaluation metrics to assess the performance of your transformer model. For example, BLEU score for translation tasks, perplexity for language modeling, or custom metrics for specific applications.
+- Implement evaluation metrics to assess the performance of the transformer model. For example, BLEU score for translation tasks, perplexity for language modeling, or custom metrics for specific applications.
 
 # References
 - [attention is all you need](https://arxiv.org/abs/1706.03762)
