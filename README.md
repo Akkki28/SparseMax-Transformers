@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 ## Run the Notebooks
-Run each Indivisual notebook for the architecture and train the model based on the required task
+Run each Individual notebook for the architecture and train the model based on the required task
 
 # Future Scope
 
