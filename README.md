@@ -37,15 +37,8 @@ source env/bin/activate # On Windows, use `env\Scripts\activate`
 ```
 pip install -r requirements.txt
 ```
-
-## Run the Notebooks
-Run each Individual notebook for the architecture and train the model based on the required task
-
-# Future Scope
-
-- Develop a training pipeline that integrates the transformer components with a dataset. This would involve preparing data loaders, defining loss functions, implementing optimization algorithms like Adam, and running training epochs.
-
-- Implement evaluation metrics to assess the performance of the transformer model. For example, BLEU score for translation tasks, perplexity for language modeling, or custom metrics for specific applications.
+## Run the Transformer
+import the transformer from Transformer.py and run as shown in main.py
 
 # References
 - [attention is all you need](https://arxiv.org/abs/1706.03762)
